@@ -26,6 +26,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/IkResult.msg"
   "srv/FilterJointTrajectory.srv"
   "srv/SolveIkWithCollision.srv"
+  "srv/SafeJointChange.srv"
   DEPENDENCIES builtin_interfaces geometry_msgs moveit_msgs nav_msgs sensor_msgs trajectory_msgs
 )
 

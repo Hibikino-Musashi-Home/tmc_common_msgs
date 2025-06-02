@@ -31,6 +31,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/JointPosition.msg"
   "msg/JointWeight.msg"
   "msg/LinearConstraint.msg"
+  "msg/LinearConstraintWithPose.msg"
   "msg/LinkDisplacement.msg"
   "msg/ObjectPair.msg"
   "msg/ObjectPairsList.msg"

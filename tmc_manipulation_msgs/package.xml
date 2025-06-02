@@ -1,14 +1,13 @@
 <package format="3">
   <name>tmc_manipulation_msgs</name>
-  <version>2.0.0</version>
-  <description>Interfaces for manipulation</description>
+  <version>2.1.0</version>
+  <description>Define manipulation-related messages and services.</description>
   <maintainer email="xr-hsr-support@mail.toyota.co.jp">HSR Support</maintainer>
 
   <license>BSD 3-clause Clear License</license>
 
   <url type="website">None</url>
 
-  <author>Keisuke Takeshita</author>
   <author>Koji Terada</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

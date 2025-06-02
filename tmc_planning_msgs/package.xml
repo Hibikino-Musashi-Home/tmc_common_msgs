@@ -1,16 +1,14 @@
 <package format="3">
   <name>tmc_planning_msgs</name>
-  <version>2.0.0</version>
-  <description>Interfaces for motion planning</description>
+  <version>2.1.0</version>
+  <description>Summarize the messages to be used in the planner.</description>
   <maintainer email="xr-hsr-support@mail.toyota.co.jp">HSR Support</maintainer>
 
   <license>BSD 3-clause Clear License</license>
 
   <url type="website">None</url>
   
-  <author>Keisuke Takeshita</author>
   <author>Koji Terada</author>
-  <author>Yuta Watanabe</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
