@@ -24,6 +24,7 @@ find_package(trajectory_msgs REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/BaseMovementType.msg"
   "msg/IkResult.msg"
+  "msg/ArmManipulationErrorCodes.msg"
   "srv/FilterJointTrajectory.srv"
   "srv/SolveIkWithCollision.srv"
   "srv/SafeJointChange.srv"
